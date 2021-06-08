@@ -1,0 +1,16 @@
+pd1
+Bread
+24
+9
+pd2
+Milk
+15
+7
+pd3
+Cheese
+13
+8
+1
+Milk
+3
+9
